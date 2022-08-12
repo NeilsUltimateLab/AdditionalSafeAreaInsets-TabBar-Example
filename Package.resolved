@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AppUtilities",
+        "repositoryURL": "https://github.com/NeilsUltimateLab/AppUtilities",
+        "state": {
+          "branch": null,
+          "revision": "7ece16294bd5bb70d46d6756e14e22d0d4e9a203",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
